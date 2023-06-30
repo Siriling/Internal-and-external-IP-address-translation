@@ -5,7 +5,7 @@ Configuration file for switching between internal and external network of naviga
 
 [1.Introduction](#1Introduction)
 
-[2.Video resources](#2Video resources)
+[2.VideoResources](#2VideoResources)
 
 [3.Implement](#3Implement)
 
@@ -14,7 +14,7 @@ Configuration file for switching between internal and external network of naviga
 # 1.Introduction
 
 From the [blibli](https://www.bilibili.com) video website, this conversion file is developed based on PHP, but the configuration file provided by the video author cannot meet my intranet multi-application access requirements. After learning how to do it, I improved the conversion file to achieve what I wanted. This file is zhuan.php above. If it is a PHP service, add this file and write the URL to achieve it
-# 2.Video resources
+# 2.VideoResources
 
 - [Video link1](https://www.bilibili.com/video/BV1RF411u7r1)
 
