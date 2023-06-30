@@ -156,14 +156,14 @@ When you click the switch button in **external**, it will judge whether the sour
 
 # 4.Show
 
-导航页
+start page
 
 ![start](images/start.png)
 
-内外网切换
+Internal and external IP address translation
 
 ![Internal and external IP address translation](images/Internal-and-external-IP-address-translation.png)
 
-应用服务
+application
 
 ![application](images/application.png)
