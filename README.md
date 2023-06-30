@@ -158,11 +158,11 @@ https://start.demo.com:81/zhuan.php?lan=:1315&wan=https://start.demo.com:81&name
 
 导航页
 
-![start](./images/start.png)
+![start](images/start.png)
 
 内外网切换
 
-![Internal and external IP address translation](images/Internal and external IP address translation.png)
+![Internal and external IP address translation](images/Internal-and-external-IP-address-translation.png)
 
 应用服务
 

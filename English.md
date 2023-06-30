@@ -162,7 +162,7 @@ When you click the switch button in **external**, it will judge whether the sour
 
 内外网切换
 
-![Internal and external IP address translation](images/Internal and external IP address translation.png)
+![Internal and external IP address translation](images/Internal-and-external-IP-address-translation.png)
 
 应用服务
 
