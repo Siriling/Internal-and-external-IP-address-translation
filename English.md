@@ -5,11 +5,11 @@ Configuration file for switching between internal and external network of naviga
 
 [1.Introduction](#1Introduction)
 
-[二、视频资源 ](#二视频资源)
+[2.Video resources](#2Video resources)
 
-[三、实现](#三实现)
+[3.Implement](#3Implement)
 
-[4.Show](#4.Show)
+[4.Show](#4Show)
 
 # 1.Introduction
 
@@ -158,12 +158,12 @@ When you click the switch button in **external**, it will judge whether the sour
 
 导航页
 
-![start](images\start.png)
+![start](images/start.png)
 
 内外网切换
 
-![Internal and external IP address translation](images\Internal and external IP address translation.png)
+![Internal and external IP address translation](images/Internal and external IP address translation.png)
 
 应用服务
 
-![application](images\application.png)
+![application](images/application.png)
